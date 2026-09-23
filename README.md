@@ -2,7 +2,7 @@
 
 An intelligent web application that uses Google Gemini Multimodal AI to transcribe, analyze, and grade handwritten programming exams and student code submissions.
 
-![ExamGrader AI Preview](https://ai.google.dev/static/site-assets/images/share-ais-513315318.png)
+![ExamGrader AI Preview](./Screenshot.png)
 
 ## 🚀 Features
 
