@@ -1,0 +1,6 @@
+{
+  "name": "ExamGrader AI - Handwritten Code OCR & Exam Checker",
+  "description": "Upload handwritten programming exams as PDF or image, run AI OCR with word-level bounding boxes and labels, extract Python code, interactive client correction, and evaluate with fair rubric-based grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
